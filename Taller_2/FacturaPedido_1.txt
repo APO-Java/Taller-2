@@ -1,0 +1,18 @@
+====================
+idPedido: 1
+Datos cliente:
+Nombre: leonardo
+Direccion: bogota
+====================
+Los items en el pedido son:
+--criolla con queso fundido  $26500
+--combo especial $32084
+ Items: 
+especial
+papas medianas
+gaseosa
+====================
+Subtotal: 58584
+IVA (19%): 11130
+====================
+Total: 69714
